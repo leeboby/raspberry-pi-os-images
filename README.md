@@ -4,7 +4,7 @@
 
 开发板 | 镜像类型 | 下载 |
 |:--|:--|:--|
-| opizero3 1gb和2gb|桌面版 |[下载链接]() |
+| opizero3 1gb和2gb|桌面版 |[下载链接](https://github.com/leeboby/raspberry-pi-os-images/releases/download/opizero3/opizero3-raspios-bullseye-arm64-2023-07-16.tar.gz) |
 
 ## OPi Zero3 1.5gb和4g内存版本的开发板使用说明
 
@@ -17,4 +17,4 @@
 登录账号和密码都是：opi
 
 ---
-![Raspberry Pi OS桌面壁纸]()
+![Raspberry Pi OS桌面壁纸](https://github.com/leeboby/raspberry-pi-os-images/blob/main/pictures/desktop.png)
