@@ -9,9 +9,8 @@
 |opi3b|桌面版|[下载链接](https://github.com/leeboby/raspberry-pi-os-images/releases/download/opi3b/Orangepi3b_1.0.0_raspios_bullseye_desktop_lxde_linux5.10.160.7z)|
 
 ## OPi 3B使用说明
-- opi3b镜像第一次启动需要接HDMI显示器，然后通过用户向导来设置账号和密码
-- opi3b镜像默认没有打开ssh登录，可以在raspi-config中打开
-- opi3b镜像默认不会自动扩容rootfs，可以在raspi-config中运行扩容功能
+
+opi3b的使用说明请参看[《OrangePi_3B_RK3566_RaspiOS_使用手册_v1.0.pdf》](https://github.com/leeboby/raspberry-pi-os-images/blob/main/OrangePi_3B_RK3566_RaspiOS_%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C_v1.0.pdf)
 
 ## OPi Zero3 1.5gb和4g内存版本的开发板使用说明
 
