@@ -16,6 +16,14 @@
 
 opi3b的使用说明请参看[《OrangePi_3B_RK3566_RaspiOS_使用手册_v1.0.pdf》](https://github.com/leeboby/raspberry-pi-os-images/blob/main/OrangePi_3B_RK3566_RaspiOS_%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C_v1.0.pdf)
 
+## OPi CM4使用说明
+
+opicm4的使用说明请参看[《OrangePi_CM4_RK3566_RaspiOS_使用手册_v1.0.pdf》](https://github.com/leeboby/raspberry-pi-os-images/blob/main/OrangePi_CM4_RK3566_RaspiOS_%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C_v1.0.pdf)
+
+## OPi Zero2W使用说明
+
+opizero2w的使用说明请参看[《OrangePi_Zero2w_H618_RaspiOS_使用手册_v1.0.pdf》](https://github.com/leeboby/raspberry-pi-os-images/blob/main/OrangePi_Zero2w_H618_RaspiOS_%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C_v1.0.pdf)
+
 ## OPi Zero3 1.5gb和4g内存版本的开发板使用说明
 
 - 1.5gb内存的开发板需要更新下u-boot才能正常使用
