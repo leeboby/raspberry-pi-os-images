@@ -9,6 +9,8 @@
 |opi3b|桌面版|[下载链接](https://github.com/leeboby/raspberry-pi-os-images/releases/download/opi3b/Orangepi3b_1.0.0_raspios_bullseye_desktop_lxde_linux5.10.160.7z)|
 |opicm4|服务器版|[下载链接](https://github.com/leeboby/raspberry-pi-os-images/releases/download/opicm4/Orangepicm4_1.0.0_raspios_bullseye_server_linux5.10.160.7z)|
 |opicm4|桌面版|[下载链接](https://github.com/leeboby/raspberry-pi-os-images/releases/download/opicm4/Orangepicm4_1.0.0_raspios_bullseye_desktop_lxde_linux5.10.160.7z)|
+|opizero2w|服务器版|[下载链接](https://github.com/leeboby/raspberry-pi-os-images/releases/download/opizero2w/Orangepizero2w_1.0.0_raspios_bullseye_server_linux6.1.31.7z)|
+|opizero2w|桌面版|[下载链接](https://github.com/leeboby/raspberry-pi-os-images/releases/download/opizero2w/Orangepizero2w_1.0.0_raspios_bullseye_desktop_lxde_linux6.1.31.7z)|
 ## OPi 3B使用说明
 
 opi3b的使用说明请参看[《OrangePi_3B_RK3566_RaspiOS_使用手册_v1.0.pdf》](https://github.com/leeboby/raspberry-pi-os-images/blob/main/OrangePi_3B_RK3566_RaspiOS_%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C_v1.0.pdf)
