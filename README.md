@@ -23,11 +23,11 @@ opicm4的使用说明请参看[《OrangePi_CM4_RK3566_RaspiOS_使用手册_v1.0.
 
 ## OPi Zero2W使用说明
 
-- opizero2w的使用说明请参看[《OrangePi_Zero2w_H618_RaspiOS_使用手册_v1.1.pdf》]()
+- opizero2w的使用说明请参看[《OrangePi_Zero2w_H618_RaspiOS_使用手册_v1.1.pdf》](https://github.com/leeboby/raspberry-pi-os-images/blob/main/OrangePi_Zero2w_H618_RaspiOS_%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C_v1.1.pdf)
 
 ## OPi Zero3使用说明
 
-- opizero3的使用说明请参看[《OrangePi_Zero3_H618_RaspiOS_使用手册_v1.0.pdf》]()
+- opizero3的使用说明请参看[《OrangePi_Zero3_H618_RaspiOS_使用手册_v1.0.pdf》](https://github.com/leeboby/raspberry-pi-os-images/blob/main/OrangePi_Zero3_H618_RaspiOS_%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C_v1.0.pdf)
 
 ---
 ![Raspberry Pi OS桌面壁纸](https://github.com/leeboby/raspberry-pi-os-images/blob/main/pictures/desktop.png)
