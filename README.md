@@ -15,19 +15,19 @@
 
 ## OPi 3B instructions for use
 
-- For instructions on how to use the opi3b, see OrangePi_3B_RK3566_RaspiOS_User_Manual_v1.0.pdf.[《OrangePi_3B_RK3566_RaspiOS_使用手册_v1.0.pdf》](https://github.com/leeboby/raspberry-pi-os-images/blob/main/OrangePi_3B_RK3566_RaspiOS_%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C_v1.0.pdf)
+- For instructions on how to use the opi3b, see [《OrangePi_3B_RK3566_RaspiOS_使用手册_v1.0.pdf》](https://github.com/leeboby/raspberry-pi-os-images/blob/main/OrangePi_3B_RK3566_RaspiOS_%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C_v1.0.pdf)
 
 ## OPi CM4 instructions for use
 
-- For instructions on how to use the opicm4, see OrangePi_CM4_RK3566_RaspiOS_User_Manual_v1.0.pdf.[《OrangePi_CM4_RK3566_RaspiOS_使用手册_v1.0.pdf》](https://github.com/leeboby/raspberry-pi-os-images/blob/main/OrangePi_CM4_RK3566_RaspiOS_%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C_v1.0.pdf)
+- For instructions on how to use the opicm4, see [《OrangePi_CM4_RK3566_RaspiOS_使用手册_v1.0.pdf》](https://github.com/leeboby/raspberry-pi-os-images/blob/main/OrangePi_CM4_RK3566_RaspiOS_%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C_v1.0.pdf)
 
 ## OPi Zero2W instructions for use
 
-- For instructions on how to use opizero2w, please refer to OrangePi_Zero2w_H618_RaspiOS_User_Manual_v1.1.pdf.[《OrangePi_Zero2w_H618_RaspiOS_使用手册_v1.1.pdf》](https://github.com/leeboby/raspberry-pi-os-images/blob/main/OrangePi_Zero2w_H618_RaspiOS_%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C_v1.1.pdf)
+- For instructions on how to use opizero2w, see [《OrangePi_Zero2w_H618_RaspiOS_使用手册_v1.1.pdf》](https://github.com/leeboby/raspberry-pi-os-images/blob/main/OrangePi_Zero2w_H618_RaspiOS_%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C_v1.1.pdf)
 
 ## OPi Zero3 instructions for use
 
-- For instructions on how to use the opizero3, see OrangePi_Zero3_H618_RaspiOS_User_Manual_v1.0.pdf.
+- For instructions on how to use the opizero3, see 
 [《OrangePi_Zero3_H618_RaspiOS_使用手册_v1.0.pdf》](https://github.com/leeboby/raspberry-pi-os-images/blob/main/OrangePi_Zero3_H618_RaspiOS_%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C_v1.0.pdf)
 
 ---
