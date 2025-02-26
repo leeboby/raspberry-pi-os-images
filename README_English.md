@@ -27,7 +27,7 @@ For the OPi CM4 user manual, please refer to [《OrangePi_CM4_RK3566_RaspiOS_Use
 
 ## OPi Zero3 User Manual
 
-- For the OPi Zero3 user manual, please refer to [《OrangePi_Zero3_H618_RaspiOS_User_Manual_v1.0.pdf》](https://github.com/leeboby/raspberry-pi-os-images/blob/main/OrangePi_Zero3_H618_RaspiOS_%E4%BD%BF%E7%94%A8%E6%89%8B_v1.0.pdf).
+- For the OPi Zero3 user manual, please refer to [《OrangePi_Zero3_H618_RaspiOS_User_Manual_v1.0.pdf》](https://github.com/leeboby/raspberry-pi-os-images/blob/main/OrangePi_Zero3_H618_RaspiOS_%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C_v1.0.pdf).
 
 ---
 ![Raspberry Pi OS Desktop Wallpaper](https://github.com/leeboby/raspberry-pi-os-images/blob/main/pictures/desktop.png)
